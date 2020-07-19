@@ -2,6 +2,7 @@
 ![image](https://img.shields.io/badge/Lifecycle-UI%20Improvements-yellowgreen)
 
 
+# The end goal is to have tweets that have a nice visual UI for delivery 
 
 Random NLP tasks (wordcloud/tweet generator/etc.) using tweets from Donald J. Trump. Data was gathered from [Kaggle](https://www.kaggle.com/austinreese/trump-tweets).
 
